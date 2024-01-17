@@ -1,6 +1,4 @@
 # Signicate
-Build this project as the Final year project of my Computer Science Bachelor Degree. The main aim of the project is to provide a platform to the people who are unable to speak. The application helps mute people to convey their message through sign gestures and convert these gestures into the text format.
-
 
 https://user-images.githubusercontent.com/68790390/182940817-c304e66a-e218-4b79-8d4d-b634eb9ab754.mp4
 
